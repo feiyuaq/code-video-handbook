@@ -1,0 +1,32 @@
+# 依赖
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 渲染产物
+out/
+*.mp4
+*.mov
+*.wav
+*.png.tmp
+
+# 缓存与日志
+.cache/
+node_modules/.cache/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 不随仓库分发的第三方素材 ----
+vibe-video/public/bgm.mp3
+vibe-video/public/wenku/
+vibe-video/public/*.wav
+
+# 本地环境配置
+.env
+.env.local
