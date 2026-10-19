@@ -1,0 +1,236 @@
+{
+  "file": "音频.mp3",
+  "duration_sec": 164.23,
+  "bpm": 117.45,
+  "beat_interval_sec": 0.511,
+  "beat_interval_frames30fps": 15.33,
+  "first_beat_sec": 0.139,
+  "candidates": [
+    {
+      "drop_time": 16.324,
+      "frame30fps": 490,
+      "quiet_at": 16.231,
+      "silence_len_sec": 0.093,
+      "quiet_db": -20.8,
+      "drop_db": 10.3,
+      "rise_db": 15.5,
+      "onset_strength": 0.946,
+      "score": 12.21,
+      "on_beat": true
+    },
+    {
+      "drop_time": 65.945,
+      "frame30fps": 1978,
+      "quiet_at": 64.807,
+      "silence_len_sec": 1.138,
+      "quiet_db": -31.2,
+      "drop_db": 14.8,
+      "rise_db": 17.3,
+      "onset_strength": 0.709,
+      "score": 11.38,
+      "on_beat": true
+    },
+    {
+      "drop_time": 64.923,
+      "frame30fps": 1948,
+      "quiet_at": 64.807,
+      "silence_len_sec": 0.116,
+      "quiet_db": -31.2,
+      "drop_db": 16.7,
+      "rise_db": 21.8,
+      "onset_strength": 0.534,
+      "score": 10.29,
+      "on_beat": true
+    },
+    {
+      "drop_time": 65.689,
+      "frame30fps": 1971,
+      "quiet_at": 64.807,
+      "silence_len_sec": 0.882,
+      "quiet_db": -31.2,
+      "drop_db": 16.6,
+      "rise_db": 21.6,
+      "onset_strength": 0.528,
+      "score": 10.09,
+      "on_beat": false
+    },
+    {
+      "drop_time": 64.412,
+      "frame30fps": 1932,
+      "quiet_at": 64.087,
+      "silence_len_sec": 0.325,
+      "quiet_db": -27.0,
+      "drop_db": 11.4,
+      "rise_db": 14.2,
+      "onset_strength": 0.711,
+      "score": 9.08,
+      "on_beat": true
+    },
+    {
+      "drop_time": 65.434,
+      "frame30fps": 1963,
+      "quiet_at": 64.807,
+      "silence_len_sec": 0.627,
+      "quiet_db": -31.2,
+      "drop_db": 17.7,
+      "rise_db": 24.0,
+      "onset_strength": 0.403,
+      "score": 8.4,
+      "on_beat": true
+    },
+    {
+      "drop_time": 81.131,
+      "frame30fps": 2434,
+      "quiet_at": 81.038,
+      "silence_len_sec": 0.093,
+      "quiet_db": -19.0,
+      "drop_db": 5.7,
+      "rise_db": 13.5,
+      "onset_strength": 0.827,
+      "score": 7.97,
+      "on_beat": true
+    },
+    {
+      "drop_time": 4.18,
+      "frame30fps": 125,
+      "quiet_at": 4.087,
+      "silence_len_sec": 0.093,
+      "quiet_db": -17.1,
+      "drop_db": 7.9,
+      "rise_db": 9.2,
+      "onset_strength": 0.717,
+      "score": 6.1,
+      "on_beat": true
+    },
+    {
+      "drop_time": 77.578,
+      "frame30fps": 2327,
+      "quiet_at": 76.997,
+      "silence_len_sec": 0.58,
+      "quiet_db": -18.5,
+      "drop_db": 10.4,
+      "rise_db": 7.6,
+      "onset_strength": 0.641,
+      "score": 5.77,
+      "on_beat": true
+    },
+    {
+      "drop_time": 65.178,
+      "frame30fps": 1955,
+      "quiet_at": 64.807,
+      "silence_len_sec": 0.372,
+      "quiet_db": -31.2,
+      "drop_db": 18.8,
+      "rise_db": 19.6,
+      "onset_strength": 0.299,
+      "score": 5.73,
+      "on_beat": false
+    },
+    {
+      "drop_time": 63.414,
+      "frame30fps": 1902,
+      "quiet_at": 63.321,
+      "silence_len_sec": 0.093,
+      "quiet_db": -21.5,
+      "drop_db": 8.9,
+      "rise_db": 9.2,
+      "onset_strength": 0.623,
+      "score": 5.64,
+      "on_beat": true
+    },
+    {
+      "drop_time": 68.986,
+      "frame30fps": 2070,
+      "quiet_at": 68.847,
+      "silence_len_sec": 0.139,
+      "quiet_db": -18.4,
+      "drop_db": 9.2,
+      "rise_db": 9.4,
+      "onset_strength": 0.593,
+      "score": 5.52,
+      "on_beat": true
+    }
+  ],
+  "section_bounds_sec": [
+    0.0,
+    9.26,
+    52.59,
+    56.82,
+    60.74,
+    62.88,
+    80.81,
+    160.12
+  ],
+  "loudness_profile_10s": [
+    {
+      "t": 0.0,
+      "db": -10.7
+    },
+    {
+      "t": 10.0,
+      "db": -10.1
+    },
+    {
+      "t": 20.0,
+      "db": -7.5
+    },
+    {
+      "t": 30.0,
+      "db": -7.2
+    },
+    {
+      "t": 39.9,
+      "db": -7.8
+    },
+    {
+      "t": 49.9,
+      "db": -13.7
+    },
+    {
+      "t": 59.9,
+      "db": -12.5
+    },
+    {
+      "t": 69.9,
+      "db": -10.7
+    },
+    {
+      "t": 79.9,
+      "db": -8.1
+    },
+    {
+      "t": 89.9,
+      "db": -6.9
+    },
+    {
+      "t": 99.8,
+      "db": -7.0
+    },
+    {
+      "t": 109.8,
+      "db": -7.0
+    },
+    {
+      "t": 119.8,
+      "db": -6.2
+    },
+    {
+      "t": 129.8,
+      "db": -6.6
+    },
+    {
+      "t": 139.8,
+      "db": -6.8
+    },
+    {
+      "t": 149.8,
+      "db": -7.5
+    },
+    {
+      "t": 159.8,
+      "db": -19.7
+    }
+  ],
+  "peak_db": 0.0,
+  "mean_db": -8.8
+}
